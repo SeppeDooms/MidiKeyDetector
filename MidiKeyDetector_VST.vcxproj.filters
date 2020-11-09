@@ -11,26 +11,10 @@
     <Filter Include="JUCE Modules">
       <UniqueIdentifier>{FE955B6B-68AC-AA07-70D8-2413F6DB65C8}</UniqueIdentifier>
     </Filter>
-    <Filter Include="JUCE Library Code">
-      <UniqueIdentifier>{7ED5A90E-41AF-A1EF-659B-37CEEAB9BA61}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
+  <ItemGroup/>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Seppe Dooms\Desktop\juce-6.0.1-windows\JUCE\modules\juce_audio_plugin_client\VST\juce_VST_Wrapper.cpp">
-      <Filter>JUCE Modules\juce_audio_plugin_client\VST</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\Seppe Dooms\Desktop\juce-6.0.1-windows\JUCE\modules\juce_audio_plugin_client\VST\juce_VST_Wrapper.mm">
-      <Filter>JUCE Modules\juce_audio_plugin_client\VST</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\Seppe Dooms\Desktop\juce-6.0.1-windows\JUCE\modules\juce_audio_plugin_client\juce_audio_plugin_client_VST2.cpp">
-      <Filter>JUCE Modules\juce_audio_plugin_client</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\JuceLibraryCode\include_juce_audio_plugin_client_VST2.cpp">
-      <Filter>JUCE Library Code</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="C:\Users\Seppe Dooms\Desktop\juce-6.0.1-windows\JUCE\modules\juce_audio_plugin_client\VST\juce_VSTCallbackHandler.h">
+    <ClInclude Include="C:\Users\seppe\OneDrive - Hogeschool Gent\Documenten\JUCE\modules\juce_audio_plugin_client\VST\juce_VSTCallbackHandler.h">
       <Filter>JUCE Modules\juce_audio_plugin_client\VST</Filter>
     </ClInclude>
   </ItemGroup>
