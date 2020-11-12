@@ -20,3 +20,5 @@ Project Link: [https://github.com/SeppeDooms/VisualStudio2019](https://github.co
 
 ### Download
 * [MidiKeyDetector v1.0](https://juce.com)
+
+<iframe src='https://hogent-my.sharepoint.com/:u:/g/personal/seppe_dooms_student_hogent_be/ERl7az_S8ZZEi44iOHydafEBrGsbWbkYgPe4dhvxRIwkhA?e=eKKgfT&action=embedview' width='379px' height='252px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> document, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>.
