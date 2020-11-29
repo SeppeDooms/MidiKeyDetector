@@ -19,4 +19,6 @@ Project Link: [https://github.com/SeppeDooms/VisualStudio2019](https://github.co
 * [Inno Setup Compiler](https://jrsoftware.org/isinfo.php)
 
 ### Download
-* [MidiKeyDetector v2.0.2](https://hogent-my.sharepoint.com/:u:/g/personal/seppe_dooms_student_hogent_be/EXr-Oye4YIhClTbQPOunsp0BzohCIr9nZE_FAj9_GcTDVA?e=XtCIYW)
+* [MidiKeyDetector Native v2.1.0](https://hogent-my.sharepoint.com/:u:/g/personal/seppe_dooms_student_hogent_be/EceQgC6CCOhNuKv3lY4xOm8BfNdaHDcJU2XLZNhq-HCNkQ?e=QZ1yQD)
+* [MidiKeyDetector VST3 v2.1.0](https://hogent-my.sharepoint.com/:u:/g/personal/seppe_dooms_student_hogent_be/EakkohZLEZpDij_BeWb0vA8BpBM4My1UXq5H_1KLct4QtQ?e=nmwBNy)
+* [MidiKeyDetector VST2 v2.1.0](https://hogent-my.sharepoint.com/:u:/g/personal/seppe_dooms_student_hogent_be/ESZARLHj9zNBs9FZY-1CMmcBVjq2RjZZq8Qenxh3GbJylw?e=Nf6D5K)
