@@ -3,7 +3,7 @@
 
 # BREAKING
 
-**MidiKeyDetector v2.0** is just around the corner. Detection speed is improvement and we have a never before seen photo from the design sessions:<br><br>
+**MidiKeyDetector v3.0** is just around the corner. Detection speed is improvement and we have a never before seen photo from the design sessions:<br><br>
 ![desilva](https://user-images.githubusercontent.com/6472374/93003437-54a7fd00-f547-11ea-8473-e4602993e69d.jpg)
 
 <!-- CONTACT -->
