@@ -28,6 +28,8 @@ public:
 
     void updateTrackComboBox();
 
+    void MakeScaleComboBox();
+
     void comboBoxChanged(juce::ComboBox* combo);
 
     bool isInterestedInFileDrag(const juce::StringArray& files) override;
@@ -44,9 +46,11 @@ private:
 
     juce::ScopedPointer<juce::TextButton> btnLoadMIDIFile;
     juce::ScopedPointer<juce::ComboBox> comboTrack;
+    juce::ScopedPointer<juce::ComboBox> comboScale;
     juce::ScopedPointer<juce::TextEditor> LblOutput;
     juce::ScopedPointer<juce::ComponentBoundsConstrainer> BC;
-    juce::Label lblKey;
+    juce::ScopedPointer<juce::ToggleButton> TBtn;
+
 
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (MidiKeyDetectorAudioProcessorEditor)
