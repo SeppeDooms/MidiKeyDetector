@@ -11,7 +11,12 @@
 Project Link: [https://github.com/SeppeDooms/VisualStudio2019](https://github.com/SeppeDooms/VisualStudio2019)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+MidiKeyDetector is plugin that reads a midi-file and detects the root-note of that midi-file.
 
+## Features
+* resizable GUI
+* 5,6,7,8 note Scales
+* minor only option
 
 ### Built With
 * [JUCE](https://juce.com)
