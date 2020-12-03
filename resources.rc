@@ -9,17 +9,18 @@
 #include <windows.h>
 
 VS_VERSION_INFO VERSIONINFO
-FILEVERSION  1,0,0,0
+FILEVERSION  2,1,0,0
 BEGIN
   BLOCK "StringFileInfo"
   BEGIN
     BLOCK "040904E4"
     BEGIN
       VALUE "CompanyName",  "Keeffa\0"
+      VALUE "LegalCopyright",  "2020\0"
       VALUE "FileDescription",  "MidiKeyDetector\0"
-      VALUE "FileVersion",  "1.0.0\0"
+      VALUE "FileVersion",  "2.1.0\0"
       VALUE "ProductName",  "MidiKeyDetector\0"
-      VALUE "ProductVersion",  "1.0.0\0"
+      VALUE "ProductVersion",  "2.1.0\0"
     END
   END
 
