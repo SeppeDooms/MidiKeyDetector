@@ -11,11 +11,15 @@
 Project Link: [https://github.com/SeppeDooms/VisualStudio2019](https://github.com/SeppeDooms/VisualStudio2019)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-MidiKeyDetector is plugin that reads a midi-file and detects the root-note of that midi-file.
+MidiKeyDetector is plugin that reads a midi-file and detects the root-note of that midi-file. 
+Most of the Scales are integrated such as:
+* 5 note scales (Egyptian)
+* 6 note scales (Six Tone Symmetrical, Prometheus Neopolitan, Augmented)
+* 7 note scales (Natural Minor, Harmonic Minor, Melodic Minor, byzantine, Arabian, hungarian Major, diminished lydian, persian)
+* 8 note scales (Eight Tone Spanish) 
 
 ## Features
 * resizable GUI
-* 5,6,7,8 note Scales
 * minor only option
 
 ### Built With
