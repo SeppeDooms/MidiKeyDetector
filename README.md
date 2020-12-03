@@ -15,7 +15,7 @@ MidiKeyDetector is plugin that reads a midi-file and detects the root-note of th
 Most of the Scales are integrated such as:
 * 5 note scales (Egyptian)
 * 6 note scales (Six Tone Symmetrical, Prometheus Neopolitan, Augmented)
-* 7 note scales (Natural Minor, Harmonic Minor, Melodic Minor, byzantine, Arabian, hungarian Major, diminished lydian, persian)
+* 7 note scales (Natural Minor, Harmonic Minor, Melodic Minor, Byzantine, Arabian, Hungarian Major, Diminished lydian, Persian)
 * 8 note scales (Eight Tone Spanish) 
 
 ## Features
